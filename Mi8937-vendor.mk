@@ -88,6 +88,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/Mi8937/proprietary/vendor/etc/acdbdata/rova/QRD_Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/rova/QRD_Headset_cal.acdb \
     vendor/xiaomi/Mi8937/proprietary/vendor/etc/acdbdata/rova/QRD_Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/rova/QRD_Speaker_cal.acdb \
     vendor/xiaomi/Mi8937/proprietary/vendor/etc/acdbdata/rova/QRD_workspaceFile.qwsp:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/rova/QRD_workspaceFile.qwsp \
+    vendor/xiaomi/Mi8937/proprietary/vendor/etc/data/netmgr_config_override.xml:$(TARGET_COPY_OUT_VENDOR)/etc/data/netmgr_config_override.xml \
     vendor/xiaomi/Mi8937/proprietary/vendor/etc/diracmobile.config:$(TARGET_COPY_OUT_VENDOR)/etc/diracmobile.config \
     vendor/xiaomi/Mi8937/proprietary/vendor/etc/perf/commonresourceconfigs.xml:$(TARGET_COPY_OUT_VENDOR)/etc/perf/commonresourceconfigs.xml \
     vendor/xiaomi/Mi8937/proprietary/vendor/etc/perf/perf-profile0.conf:$(TARGET_COPY_OUT_VENDOR)/etc/perf/perf-profile0.conf \
